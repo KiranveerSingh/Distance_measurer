@@ -42,9 +42,9 @@ This project is an **ultrasonic distance calculator** that uses an **Arduino Uno
 ## 📁 File Structure
 Distance-measurer/
 │── ArduinoIDE-Code/
-│   └── Measuring_code.ino
+│   └── Measuring code.ino
 │── Images/
-│   ├── circuit_diagram.png
+│   ├── circuit diagram.png
 │   └── project.jpg
 │── How-I-Made-It.md
 │── LICENSE
