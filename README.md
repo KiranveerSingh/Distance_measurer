@@ -46,6 +46,7 @@ Distance-measurer/
 │── Images/
 │   ├── circuit_diagram.png
 │   └── project.jpg
+│── How-I-Made-It.md
 │── LICENSE
 │── README.md
 
